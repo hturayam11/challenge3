@@ -1,0 +1,183 @@
+[
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0001"),
+      "name": "San Antonio Spurs",
+      "wins": 2283,
+      "losses": 1502
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0002"),
+      "name": "Boston Celtics",
+      "wins": 3570,
+      "losses": 2462
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0003"),
+      "name": "Los Angeles Lakers",
+      "wins": 3503,
+      "losses": 2419
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0004"),
+      "name": "Utah Jazz",
+      "wins": 2146,
+      "losses": 1804
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0005"),
+      "name": "Phoenix Suns",
+      "wins": 2380,
+      "losses": 2063
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0006"),
+      "name": "Oklahoma City Thunder",
+      "wins": 2413,
+      "losses": 2111
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0007"),
+      "name": "Portland Trail Blazers",
+      "wins": 2271,
+      "losses": 2009
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0008"),
+      "name": "Milwaukee Bucks",
+      "wins": 2340,
+      "losses": 2103
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0009"),
+      "name": "Miami Heat",
+      "wins": 1475,
+      "losses": 1328
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0010"),
+      "name": "Philadelphia 76ers",
+      "wins": 3054,
+      "losses": 2805
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0011"),
+      "name": "Houston Rockets",
+      "wins": 2328,
+      "losses": 2196
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0012"),
+      "name": "Chicago Bulls",
+      "wins": 2344,
+      "losses": 2254
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0013"),
+      "name": "Dallas Mavericks",
+      "wins": 1747,
+      "losses": 1714
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0014"),
+      "name": "Denver Nuggets",
+      "wins": 1897,
+      "losses": 1890
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0015"),
+      "name": "Indiana Pacers",
+      "wins": 1883,
+      "losses": 1903
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0016"),
+      "name": "Atlanta Hawks",
+      "wins": 2891,
+      "losses": 2964
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0017"),
+      "name": "New York Knicks",
+      "wins": 2924,
+      "losses": 3099
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0018"),
+      "name": "Golden State Warriors",
+      "wins": 2923,
+      "losses": 3098
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0019"),
+      "name": "Toronto Raptors",
+      "wins": 1071,
+      "losses": 1157
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0020"),
+      "name": "Detroit Pistons",
+      "wins": 2813,
+      "losses": 3103
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0021"),
+      "name": "Orlando Magic",
+      "wins": 1268,
+      "losses": 1453
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0022"),
+      "name": "Cleveland Cavaliers",
+      "wins": 1984,
+      "losses": 2287
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0023"),
+      "name": "New Orleans Pelicans",
+      "wins": 782,
+      "losses": 904
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0024"),
+      "name": "Sacramento Kings",
+      "wins": 2702,
+      "losses": 3103
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0025"),
+      "name": "Washington Wizards",
+      "wins": 2257,
+      "losses": 2748
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0026"),
+      "name": "Charlotte Hornets",
+      "wins": 1153,
+      "losses": 1478
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0027"),
+      "name": "Memphis Grizzlies",
+      "wins": 971,
+      "losses": 1258
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0028"),
+      "name": "Brooklyn Nets",
+      "wins": 1622,
+      "losses": 2164
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0029"),
+      "name": "Los Angeles Clippers",
+      "wins": 1792,
+      "losses": 2486
+    },
+    {
+      "_id": ObjectId("64b95c2f4e5b9a12345a0030"),
+      "name": "Minnesota Timberwolves",
+      "wins": 1091,
+      "losses": 1621
+    }
+  ]
+  
